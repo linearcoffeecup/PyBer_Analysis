@@ -37,8 +37,8 @@ Summary Graph
 
 Business recommendations to the CEO for addressing any disparities among the city types:
 
-1.  The average fare per driver is much greater that average fare per ride in rural areas.  This suggests that drivers are making more than one trip.  The number of trips could be decreased by adding more drivers.
+1.  The average fare per driver is much greater than average fare per ride in rural areas.  This suggests that drivers are making more than one trip.  The number of trips could be decreased by adding more drivers.
 
-2.  The average fare per driver is lower than the average fare per ride in urban areas.  One solution is to increase the fares for urban city drivers, especially during the busy time of the year which could be defined fares in months relative to the month of January.
+2.  The average fare per driver is lower than the average fare per ride in urban areas.  One solution is to increase the fares for urban city drivers, especially during the busy time of the year which could be defined in terms of fares in months relative to the month of January.
 
 3.  The average fare per driver is greater than the average fare per ride for suburban areas.  The two averages could be made closer by sharing drivers between urban and rural cities during the year.

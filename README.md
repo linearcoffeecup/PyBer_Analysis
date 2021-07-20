@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-In this analysis, it was required to gather key data for evaluation.  The calculated data supports a comparison across different driving-areas and considers the number of rides, the number of drivers, and fares as input.  The results of the analysis are used to gain insights on PyBer business in cities located in urban, suburban, and rural areas.  The figures of merit chosen are the total number of rides, fares, and drivers, as well as the average fare per ride and per driver for each city which Pyber serves.  The input data is from city_data.csv[] and ride_data.csv[], and are presented in DataFrame and Pandas plot formats.
+In this analysis, it was required to gather key data for evaluation.  The calculated data supports a comparison across different driving-areas and considers the number of rides, the number of drivers, and fares as input.  The results of the analysis are used to gain insights on PyBer business in cities located in urban, suburban, and rural areas.  The figures of merit chosen are the total number of rides, fares, and drivers, as well as the average fare per ride and per driver for each city which Pyber serves.  The input data is from [city_data.csv](https://github.com/linearcoffeecup/PyBer_Analysis/blob/main/Resources/city_data.csv) and [ride_data.csv](), and are presented in DataFrame and Pandas plot formats.
 
 The general steps in this analysis were:
 
